@@ -1,2 +1,3 @@
 lss233/mirai-http:latest
 lss233/chatgpt-mirai-qq-bot:browser-version
+containrrr/watchtower:latest
